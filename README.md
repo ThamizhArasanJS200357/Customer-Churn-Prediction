@@ -1,5 +1,7 @@
 # Customer-Churn-Prediction
 Customer churn prediction Machine learning models to predict telco customer churn.
+![image](https://github.com/ThamizhArasanJS200357/Customer-Churn-Prediction/assets/146479516/9379e987-22c3-4b81-bdb2-86ad28ee101f)
+
 
 Name:	Thamizh Arasan J.S <br>
 
